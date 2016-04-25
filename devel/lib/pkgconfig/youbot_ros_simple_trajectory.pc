@@ -1,0 +1,8 @@
+prefix=/home/youbot/catkin_ws/devel
+
+Name: youbot_ros_simple_trajectory
+Description: Description of youbot_ros_simple_trajectory
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/youbot/catkin_ws/devel/lib 
+Requires: 

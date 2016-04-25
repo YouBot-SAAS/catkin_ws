@@ -1,0 +1,8 @@
+prefix=/home/youbot/catkin_ws/devel
+
+Name: joypad_control
+Description: Description of joypad_control
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/youbot/catkin_ws/devel/lib 
+Requires: 

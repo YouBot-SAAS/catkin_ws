@@ -1,0 +1,15 @@
+[submodule "src/saas_tutorial"]
+	path = src/saas_tutorial
+	url = https://github.com/YouBot-SAAS/saas_tutorial.git
+[submodule "src/youbot_navigation"]
+	path = src/youbot_navigation
+	url = https://github.com/YouBot-SAAS/youbot_navigation.git
+[submodule "src/mocap_optitrack"]
+	path = src/mocap_optitrack
+	url = https://github.com/YouBot-SAAS/mocap_optitrack.git
+[submodule "src/youbot_applications"]
+	path = src/youbot_applications
+	url = http://github.com/wnowak/youbot_applications
+[submodule "src/youbot_ros_samples"]
+	path = src/youbot_ros_samples
+	url = http://github.com/wnowak/youbot_ros_samples
