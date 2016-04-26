@@ -13,3 +13,6 @@
 [submodule "src/youbot_ros_samples"]
 	path = src/youbot_ros_samples
 	url = http://github.com/wnowak/youbot_ros_samples
+[submodule "src/PID"]
+	path = src/PID
+	url = https://github.com/YouBot-SAAS/PID.git
